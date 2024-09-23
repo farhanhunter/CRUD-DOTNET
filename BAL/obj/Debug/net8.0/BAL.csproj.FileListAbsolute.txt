@@ -1,0 +1,11 @@
+C:\Users\Farhan\TechnoCenter\DotNet\LandingPageBackend\BAL\bin\Debug\net8.0\BAL.deps.json
+C:\Users\Farhan\TechnoCenter\DotNet\LandingPageBackend\BAL\bin\Debug\net8.0\BAL.dll
+C:\Users\Farhan\TechnoCenter\DotNet\LandingPageBackend\BAL\bin\Debug\net8.0\BAL.pdb
+C:\Users\Farhan\TechnoCenter\DotNet\LandingPageBackend\BAL\obj\Debug\net8.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farhan\TechnoCenter\DotNet\LandingPageBackend\BAL\obj\Debug\net8.0\BAL.AssemblyInfoInputs.cache
+C:\Users\Farhan\TechnoCenter\DotNet\LandingPageBackend\BAL\obj\Debug\net8.0\BAL.AssemblyInfo.cs
+C:\Users\Farhan\TechnoCenter\DotNet\LandingPageBackend\BAL\obj\Debug\net8.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\Farhan\TechnoCenter\DotNet\LandingPageBackend\BAL\obj\Debug\net8.0\BAL.dll
+C:\Users\Farhan\TechnoCenter\DotNet\LandingPageBackend\BAL\obj\Debug\net8.0\refint\BAL.dll
+C:\Users\Farhan\TechnoCenter\DotNet\LandingPageBackend\BAL\obj\Debug\net8.0\BAL.pdb
+C:\Users\Farhan\TechnoCenter\DotNet\LandingPageBackend\BAL\obj\Debug\net8.0\ref\BAL.dll
